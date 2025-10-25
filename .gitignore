@@ -1,0 +1,23 @@
+# build & cmake
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+*.dir/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# binaries & objs
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.log
+
+# misc
+.DS_Store
+Thumbs.db
