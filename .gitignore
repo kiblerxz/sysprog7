@@ -21,3 +21,4 @@ compile_commands.json
 # misc
 .DS_Store
 Thumbs.db
+*.swp
