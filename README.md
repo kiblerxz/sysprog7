@@ -11,7 +11,8 @@
 Вывод: путь:номер_строки:строка. Скрытые файлы/каталоги учитываются.
 
 ### Пример использования
-https://imgur.com/a/dfjnz0K
+<img width="752" height="168" alt="Screenshot_1" src="https://github.com/user-attachments/assets/07adabad-356e-4ac3-9baa-69a98083bca8" />
+
 
 ### Листинг
 src/rgrep
